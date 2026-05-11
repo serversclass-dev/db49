@@ -1,1 +1,20 @@
-{}
+{
+  "Taby": {
+    "username": "Taby",
+    "password": "3344316008Ta@",
+    "student_type": "علمي",
+    "telegram_user_id": "8400547426",
+    "telegram_username": null,
+    "telegram_first_name": "Lina🎀.",
+    "profile_photo_url": null,
+    "session_id": "2e146bcc-36f3-40ab-bb24-2553f31459a2",
+    "created_at": "2026-05-11T18:06:09.324098",
+    "verified": true,
+    "last_login": "2026-05-11T18:08:07.372523",
+    "balance": 0,
+    "purchased_subjects": [
+      "islamic"
+    ],
+    "server_num": 49
+  }
+}
